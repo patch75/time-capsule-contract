@@ -1,0 +1,32 @@
+# Build artifacts (GROS FICHIERS!)
+target/
+node_modules/
+dist/
+build/
+
+# Anchor
+.anchor/
+
+# Keys (SÉCURITÉ!)
+id.json
+wallet.json
+keypairs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+wallets/
