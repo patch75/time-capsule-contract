@@ -16,7 +16,7 @@ time_capsule_contract = "FXmb9NmMdbtTX4RRKsBzGzSLD6NzxMKoZSgmTKNJ1jhk"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "devnet"
+cluster = "mainnet"
 wallet = "./wallets/deployer.json"
 
 [workspace]
